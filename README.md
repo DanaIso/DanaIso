@@ -17,6 +17,10 @@
 
 ---
 
-<img align="left" alt="Dana's GitHub Stats" src="https://github-readme-stats.DanaIso.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+</br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanaIso&show_icons=true&locale=en&layout=compact" alt="DanaIso" /></p>
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DanaIso&show_icons=true&locale=en" alt="DanaIso" /></p>
 
 [linkedin]: https://www.linkedin.com/in/dana-ismail-5339151b8/
