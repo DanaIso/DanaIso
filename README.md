@@ -18,9 +18,8 @@
 ---
 
 </br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanaIso&show_icons=true&locale=en&layout=compact" alt="DanaIso" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanaIso&show_icons=true&locale=en&layout=compact" alt="DanaIso" />
 <br>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DanaIso&show_icons=true&locale=en" alt="DanaIso" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanaIso&show_icons=true&locale=en" alt="DanaIso" />
 
 [linkedin]: https://www.linkedin.com/in/dana-ismail-5339151b8/
