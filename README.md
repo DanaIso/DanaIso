@@ -5,7 +5,7 @@
 - 📫 How to reach me: dana.iso@hotmail.com
 
 ### Connect with me:
-<a href=[linkedin] target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danaiso" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/dana-ismail-5339151b8/ target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danaiso" height="30" width="40" /></a>
 
 <br />
 
@@ -29,5 +29,3 @@
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanaIso&show_icons=true&locale=en" alt="DanaIso" />
-
-[linkedin]: https://www.linkedin.com/in/dana-ismail-5339151b8/
