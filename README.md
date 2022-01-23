@@ -8,7 +8,6 @@
 
 ### Connect with me:
 <a href=[linkedin] target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="adeelhussain00" height="30" width="40" /></a>
-[<img align="left" alt="danaiso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
