@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Dana Ismail (@DanaIso) 👋</h1>
-<h3 align="center">I am currently studying at KTH Royal Institute of Technology and I am aiming to become a professional programmer and web developer!!</h3>
+<h1>Hi there, I'm Dana Ismail (@DanaIso) 👋</h1>
+<h3>I am currently studying at KTH Royal Institute of Technology and I am aiming to become a professional programmer and web developer!!</h3>
 
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: dana.iso@hotmail.com
 
 ### Connect with me:
-<a href=[linkedin] target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="adeelhussain00" height="30" width="40" /></a>
+<a href=[linkedin] target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danaiso" height="30" width="40" /></a>
 
 <br />
 
