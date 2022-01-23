@@ -27,7 +27,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="ReactJS" width="40" height="40"/> </a>
 <a href="https://cli.vuejs.org/" target="_blank"> <img src="https://cli.vuejs.org/favicon.png" alt="VueCli" width="40" height="40"/> </a>
 
----
+<br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanaIso&show_icons=true&locale=en" alt="DanaIso" />
 
