@@ -17,4 +17,6 @@
 
 ---
 
+<img align="left" alt="Dana's GitHub Stats" src="https://github-readme-stats.DanaIso.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
 [linkedin]: https://www.linkedin.com/in/dana-ismail-5339151b8/
