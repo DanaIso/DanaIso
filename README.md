@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Dana Ismail (@DanaIso) 👋</h1>
-<h3>I am currently studying at KTH Royal Institute of Technology and I am aiming to become a professional programmer and web developer!!</h3>
+<h3>I am currently studying at KTH Royal Institute of Technology!</h3>
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Learning everything 🤣
 - 📫 How to reach me: dana.iso@hotmail.com
 
 ### Connect with me:
