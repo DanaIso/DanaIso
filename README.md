@@ -1,8 +1,9 @@
-<h1>Hi there, I'm Dana Ismail (@DanaIso) 👋</h1>
-<h3>I am currently studying at KTH Royal Institute of Technology!</h3>
+<h1>Hi there, my name is Dana Ismail (@DanaIso) 👋</h1>
+<!-- <h3>I am currently studying at KTH Royal Institute of Technology!</h3> -->
+<h3>I'm a current cybersecurity master's student at KTH Royal Institute of Technology</h3>
+<h3>I have a strong passion for technology and digital development. My interests are cybersecurity, software development, and entrepreneurship.</h3>
 
-- 🌱 Learning everything 🤣
-- 📫 How to reach me: dana.iso@hotmail.com
+- 📫 You can reach me at: dana.iso@hotmail.com
 
 ### Connect with me:
 <a href=https://www.linkedin.com/in/dana-ismail-5339151b8/ target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danaiso" height="30" width="40" /></a>
