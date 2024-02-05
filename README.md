@@ -10,7 +10,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages & Tools:
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
@@ -23,7 +23,7 @@
 <a href="https://cs.lmu.edu/~ray/notes/x86assembly/" target="_blank"> <img src="https://i.imgur.com/e8g2NiU.png" alt="assembly" width="40" height="40"/> </a>
 <a href="https://www.swi-prolog.org/" target="_blank"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" alt="swiprolog" width="40" height="40"/> </a>
 <a href="https://elixir-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://droidcontrols.com/wp-content/uploads/2021/05/react-native-logo.png" alt="ReactNative" width="40" height="40"/> </a>
+<!-- <a href="https://reactnative.dev/" target="_blank"> <img src="https://droidcontrols.com/wp-content/uploads/2021/05/react-native-logo.png" alt="ReactNative" width="40" height="40"/> </a> -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="ReactJS" width="40" height="40"/> </a>
 <a href="https://cli.vuejs.org/" target="_blank"> <img src="https://cli.vuejs.org/favicon.png" alt="VueCli" width="40" height="40"/> </a>
 
